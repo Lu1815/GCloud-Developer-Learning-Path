@@ -1,7 +1,6 @@
 # Authorization with Cloud IAM
 
 ## Introduction
-Cloud Identity and Access Management (IAM) enables you to manage access control by defining who (the principal) has what access (role) to which resource. By following the principle of least privilege, you ensure that users and services have only the permissions they need to perform their tasks.
 
 ## Key Concepts in IAM
 
