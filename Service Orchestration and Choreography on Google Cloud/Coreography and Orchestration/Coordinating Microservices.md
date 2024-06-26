@@ -5,7 +5,7 @@ Coordinating communication between microservices in an event-driven architecture
 
 ## Service Choreography
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 - **Concept**: Similar to a dance performance, where each dancer performs their part independently.
 - **Function**: Each service independently receives and sends events asynchronously, following defined interaction rules.
@@ -14,7 +14,7 @@ Coordinating communication between microservices in an event-driven architecture
 
 ## Service Orchestration
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 - **Concept**: Comparable to an orchestra performance, where a conductor synchronizes the musicians.
 - **Function**: A central orchestrator controls all interactions between services, with each service performing its own tasks.
